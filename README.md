@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Syncfusion Responsive Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1653966632/media/Screenshot_190_gtdink.png" title="Dashboard" alt="Dashboard">
 
 ## Available Scripts
 
