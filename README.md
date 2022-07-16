@@ -1,6 +1,6 @@
 # React Syncfusion Responsive Dashboard
 
-<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1653966632/media/Screenshot_190_gtdink.png" title="Dashboard" alt="Dashboard">
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1653966632/media/Screenshot_190_gtdink.png" title="Dashboard" alt="Dashboard">.
 
 ## Available Scripts
 
